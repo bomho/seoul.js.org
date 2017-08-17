@@ -1,1 +1,12 @@
----{}
+---
+  Meetups: 
+    2017.08.18(1st): "meetups/2017.08.18(1st).md"
+  Meeting Notes: 
+    2017.07.10: "meeting-notes/2017.07.10.md"
+    2017.07.19(kickoff): "meeting-notes/2017.07.19(kickoff).md"
+  Seoul.js: 
+    About: "seoul.js/about.md"
+    Code Of Conduct: "seoul.js/code-of-conduct.md"
+    Sponsors: "seoul.js/sponsors.md"
+    Why We Started Seoul.js: "seoul.js/why-we-started-seoul.js.md"
+    Logo: "seoul.js/logo.md"

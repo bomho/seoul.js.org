@@ -5,9 +5,9 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "flybook": "^1.4.3",
+    "flybook": "^1.4.5",
     "gh-pages": "^1.0.0",
-    "serve": "^5.2.2"
+    "serve": "^6.0.5"
   },
   "scripts": {
     "docs": "flybook docs --outdir=out",
@@ -35,8 +35,8 @@
       "email": "rhio.kim@gmail.com"
     },
     {
-      "name": "wany",
-      "email": "baepower@me.com"
+      "name": "Mark",
+      "email": "2woonjae@gmail.com"
     }
   ],
   "license": "MIT",
